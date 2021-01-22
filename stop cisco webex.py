@@ -6,7 +6,7 @@ import time
 
 taskname ='"'
 taskname+='atmgr.exe'  #this is its name , the cisco pop up name
-#taskname+='NOTEPAD.exe'
+#taskname+='NOTEPAD.exe'  #troubleshooting code
 taskname+='"'
 while(True):
     try:
